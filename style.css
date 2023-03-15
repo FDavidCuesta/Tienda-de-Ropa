@@ -52,7 +52,7 @@ body{
 	margin: 0;
 	padding: 0;
 	height: 45px;
-	width: 50%;
+	width: 10%;
 	opacity: 0;
 	cursor: pointer
 }
@@ -228,7 +228,7 @@ footer {
 	padding: 0;
 	display: flex;
 	flex-direction: row;
-	justify-content: space-evenly;
+	justify-content: space-around;
 
   }
   
@@ -248,6 +248,7 @@ footer {
   .social-icons li:last-child {
 	margin-right: 0 auto;
   }
+
   
   .social-icons li a {
 	display:flex;
